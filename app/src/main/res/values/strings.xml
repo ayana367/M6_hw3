@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M6_hw3</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="ic_send">ic send</string>
+    <string name="hint">hashtag</string>
+    <string name="click">click</string>
+</resources>
